@@ -1,0 +1,2 @@
+# hackr.win
+yay
